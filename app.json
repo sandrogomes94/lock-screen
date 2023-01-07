@@ -17,17 +17,13 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+    "extra": {
+      "eas": {
+        "projectId": "9c8854c1-0131-4245-afeb-35c84194a081"
       }
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "android": {
+      "package": "com.sandroxd.LockScreen"
     }
   }
 }
