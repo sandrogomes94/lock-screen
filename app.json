@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "LockScreen",
+    "name": "Lock Screen",
     "slug": "LockScreen",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,7 +23,7 @@
       }
     },
     "android": {
-      "package": "com.sandroxd.LockScreen"
+      "package": "online.sandroxd.LockScreen"
     }
   }
 }
